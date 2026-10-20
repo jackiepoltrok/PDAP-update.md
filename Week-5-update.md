@@ -12,3 +12,10 @@ Polycam:
   Date captured: October 20, 2026 at 2:37pm
   Number of frames: 45
   Location: Ottawa
+
+Kiri Engine:
+  Photo/video scan
+  Date captured: October 21, 2026 at 2:53pm
+  Location: Ottawa
+
+Luma
