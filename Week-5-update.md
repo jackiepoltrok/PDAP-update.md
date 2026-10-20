@@ -14,8 +14,8 @@ Polycam:
   Location: Ottawa
 
 Kiri Engine:
-  Photo/video scan
-  Date captured: October 21, 2026 at 2:53pm
-  Location: Ottawa
+  Scan Mode: Photo Scan
+  Polygon Counts: Hight
+  Texture Resolution: 4k
 
 Luma
