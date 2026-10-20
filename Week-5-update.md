@@ -12,10 +12,13 @@ Polycam:
   Date captured: October 20, 2026 at 2:37pm
   Number of frames: 45
   Location: Ottawa
+  A video-like format. Took captures as my phone camera moved around the object until it had enough to make a model.
 
 Kiri Engine:
   Scan Mode: Photo Scan
   Polygon Counts: Hight
   Texture Resolution: 4k
+  Video tool. I moved around the object with my phone camera while recording. No obvious captures were taken, not like photos.
 
 Luma
+Had me put the object inside an imaginary box that appeared on my screen while pointing my camera at the object. Three rings were positioned around the object. One towards the top, one around the middle, and one at the bottom. I was to move around the object three times to fill each ring. There were placers where my phone should be displayed on the screen.
